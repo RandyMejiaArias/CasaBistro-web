@@ -1,0 +1,44 @@
+@import "./wrapper.css";
+@import "./header.css";
+@import "./menu.css";
+@import "./button.css";
+@import "./hero.css";
+
+/* Fuentes */
+@font-face {
+    font-family: 'CaviarDreams';
+    src: url('../assets/fonts/CaviarDreams.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CaviarDreams';
+    src: url('../assets/fonts/CaviarDreams_Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+:root{
+    --fontBase: 'CaviarDreams', sans-serif;
+    --fontBase-Bold: 'CaviarDreams-Bold', sans-serif;
+    --headline1: bold 95px/154px var(--fontBase);
+    --headline2: bold 59px/154px var(--fontBase);
+    --headline3: bold 48px/78px var(--fontBase);
+    --headline4: 34px/55px var(--fontBase);
+    --headline5: bold 24px/39px var(--fontBase);
+    --body: 16px/26px var(--fontBase);
+    --callout: bold 14px/23px var(--fontBase);
+    --caption: 12px/19px var(--fontBase);
+    --black: #0A0905;
+    --camel: #D2AE4D;
+    --white: white;
+}
+
+body{
+    background: var(--black);
+    min-block-size: 100vh;
+    font: var(--body);
+    color: var(--white);
+    margin: 0;
+}

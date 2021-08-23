@@ -1,0 +1,29 @@
+.header{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    block-size: 80px;
+}
+
+.clipPath{
+    clip-path: polygon(35% 0, 100% 0%, 100% 100%, 57% 100%);
+    background-color: var(--camel);
+    top: 0px;
+    right: 0px;
+    width: 75%;
+    height: 50vh;
+    position: absolute;
+    z-index: -999;
+}
+
+@media screen and (min-width: 768px) {
+    .clipPath{
+        height: 100vh;
+    }
+}
