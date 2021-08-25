@@ -36,7 +36,7 @@
 @media screen and (min-width: 768px) {
     #contact{
         padding-block-start: 140px;
-        padding-inline-end: 140px;
+        padding-block-end: 140px;
     }
 
     .contact-list{
