@@ -1,5 +1,5 @@
 #social{
-    margin-block-end: 40px;
+    padding-block-end: 40px;
     text-align: center;
 }
 
@@ -23,6 +23,7 @@
 
 @media screen and (min-width: 768px) {
     #social{
+        padding-block-end: 100px;
         margin: 0 auto;
         max-width: 600px;
     }
