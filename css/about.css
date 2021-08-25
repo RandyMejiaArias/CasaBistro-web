@@ -3,12 +3,13 @@
     flex-direction: column;
     gap: 22px;
 }
+
 .about-text {
     margin-block-start: 80px;
     margin-block-end: 60px;
 }
 
-.about-text h5{
+.section-title{
     font: var(--caption);
     margin: 0;
     text-align: center;
@@ -48,7 +49,7 @@
         max-width: 1080px;
     }
 
-    .about-text h5{
+    .section-title{
         font: var(--headline5);
     }
 
