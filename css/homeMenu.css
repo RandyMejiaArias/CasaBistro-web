@@ -53,15 +53,12 @@
     .home-menu-description{
         flex: 1;
         margin-inline-start: 24px;
+        justify-content: center;
     }
 
     .home-menu-description h4{
         font: var(--headline4);
         text-align: start;
-    }
-
-    .home-menu-description p{
-        font: var(--headline5);
     }
 }
 
