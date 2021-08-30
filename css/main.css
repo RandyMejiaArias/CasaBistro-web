@@ -10,6 +10,8 @@
 @import "./social.css";
 @import "./footer.css";
 
+@import "./generalMenu.css";
+
 /* Fuentes */
 @font-face {
     font-family: 'CaviarDreams';
@@ -39,6 +41,7 @@
     --black: #0A0905;
     --camel: #D2AE4D;
     --white: white;
+    scroll-behavior: smooth;
 }
 
 body{
