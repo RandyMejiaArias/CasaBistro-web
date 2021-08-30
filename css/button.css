@@ -11,6 +11,12 @@
     text-decoration: none;
     text-transform: uppercase;
     text-align: center;
+    transition: 500ms;
+}
+
+.button.scrolled{
+    background: var(--camel);
+    transition: 500ms;
 }
 
 .button.is-secondary{

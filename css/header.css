@@ -2,6 +2,7 @@
     position: sticky;
     top: 0;
     z-index: 1;
+    transition: 500ms;
 }
 
 .header-content{
@@ -9,6 +10,11 @@
     justify-content: space-between;
     align-items: center;
     block-size: 80px;
+}
+
+.header.scrolled{
+    background-color: var(--black);
+    transition: 500ms;
 }
 
 .clipPath{
@@ -20,6 +26,10 @@
     height: 50vh;
     position: absolute;
     z-index: -999;
+}
+
+.clipPath.fixed{
+    position: fixed;
 }
 
 @media screen and (min-width: 768px) {
