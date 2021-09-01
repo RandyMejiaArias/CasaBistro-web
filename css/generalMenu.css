@@ -48,6 +48,7 @@
     visibility: hidden;
     opacity: 0;
     transition: all 600ms;
+    z-index: 2;
 }
 
 .container-modal:target{
@@ -212,5 +213,26 @@
 
     .sauce-list li{
         font: var(--body);
+    }
+}
+
+@media screen and (max-height: 730px) {
+    .modal-description p {
+        font: var(--caption);
+    }
+
+    .modal{
+        max-height: 540px;
+    }
+}
+
+@media screen and (max-height: 570px) {
+    .modal-img{
+        padding-block-start: 12px;
+        padding-block-end: 0px;
+    }
+
+    .modal{
+        max-height: 480px;
     }
 }
