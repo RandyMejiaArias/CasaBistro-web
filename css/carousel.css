@@ -3,11 +3,11 @@
     padding-block-end: 40px;
 }
 
-.carousel-content{
+.carousel-content, .modal-carousel-content{
     position: relative;
 }
 
-.carousel-previous, .carousel-next{
+.carousel-previous, .carousel-next, .modal-carousel-previous, .modal-carousel-next{
     position: absolute;
     display: block;
     border: none;
@@ -19,7 +19,12 @@
     z-index: 1;
 }
 
-.carousel-previous i, .carousel-next i{
+.modal-carousel-previous, .modal-carousel-next{
+    color: var(--camel);
+    top: calc(50% - 8px);
+}
+
+.carousel-previous i, .carousel-next i, .modal-carousel-previous i, .modal-carousel-next i{
     font-size: 30px;
 }
 
@@ -27,15 +32,27 @@
     color: var(--camel);
 }
 
+.modal-carousel-previous:hover, .modal-carousel-next:hover{
+    color: var(--black);
+}
+
 .carousel-previous{
     left: 37.2px;
+}
+
+.modal-carousel-previous{
+    left: 12px;
 }
 
 .carousel-next{
     right: 37.2px;
 }
 
-.carousel-list{
+.modal-carousel-next{
+    right: 12px;
+}
+
+.carousel-list, .modal-carousel-list{
     overflow: hidden;
 }
 
@@ -51,6 +68,10 @@
 
     .carousel-previous{
         left: 60px;
+    }
+
+    .modal-carousel-previous{
+        left: 40px;
     }
     
     .carousel-next{

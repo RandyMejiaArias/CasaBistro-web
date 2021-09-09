@@ -5,10 +5,19 @@
     padding-block-end: 40px;
 }
 
+.general-menu section{
+    display: flex;
+    flex-direction: column;
+}
+
 .general-menu-title{
+    background: var(--camel);
+    align-self: flex-start;
     font: var(--headline4);
     margin: 0;
-    padding-block-end: 32px;
+    margin-block-end: 24px;
+    padding-inline-start: 16px;
+    padding-inline-end: 16px;
 }
 
 .general-menu-item-image{
@@ -86,6 +95,10 @@
     padding-block-start: 30px;
 }
 
+.modal-img.carousel{
+    padding-block-start: 0;
+}
+
 .modal-img img{
     max-inline-size: 100%;
 }
@@ -152,6 +165,10 @@
 }
 
 @media screen and (min-width: 768px) {
+    .general-menu-title{
+        font: var(--headline3);
+    }
+
     .general-menu-item-description h4{
         font: var(--body);
     }
@@ -173,6 +190,10 @@
         margin: auto auto;
         padding-inline-start: 32px;
         padding-block-end: 30px;
+    }
+
+    .modal-img.carousel{
+        padding-inline-start: 0;
     }
 
     .modal-description{
@@ -210,7 +231,6 @@
         max-height: 374px;
         text-align: center;
         margin: auto auto;
-        padding-inline-start: 32px;
     }
 
     .modal-description{
