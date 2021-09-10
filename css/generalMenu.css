@@ -32,6 +32,22 @@
 
 .general-menu-item-image{
     text-align: center;
+    position: relative;
+}
+
+.general-menu-item-image .callout{
+    font: var(--callout);
+    background: var(--camel);
+    color: var(--white);
+    position: absolute;
+    align-self: flex-start;
+    margin: 0;
+    padding-inline-start: 16px;
+    padding-inline-end: 16px;
+    padding-block-start: 4px;
+    padding-block-end: 4px;
+    top: 0;
+    right: 0;
 }
 
 .general-menu-item{
