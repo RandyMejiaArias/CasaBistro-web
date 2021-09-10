@@ -12,6 +12,8 @@ $(document).ready(function () {
   });
 });
 
+$('.extras-menu-item-header span:first-child').after("<span class=\"dots\"> </span>");
+
 window.addEventListener('load', function(){
     new Glider(this.document.querySelector('.carousel-list'),{
         slidesToShow: 1,
