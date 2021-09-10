@@ -4,10 +4,10 @@ $(document).ready(function () {
       var navHeight = $(window).height() * 0.02;
       if ($(window).scrollTop() > navHeight) {
           $('#nav').addClass('scrolled');
-          $('.button').addClass('scrolled');
+          // $('.button').addClass('scrolled');
       } else {
           $('#nav').removeClass('scrolled');
-          $('.button').removeClass('scrolled');
+          // $('.button').removeClass('scrolled');
       }
   });
 });
