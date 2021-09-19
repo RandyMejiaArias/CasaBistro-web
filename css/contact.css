@@ -52,6 +52,10 @@
     line-height: 26px;
 }
 
+.contact .phone{
+    color: var(--white);
+}
+
 .contact p{
     margin: 0;
     color: var(--white);
