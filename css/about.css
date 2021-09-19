@@ -10,7 +10,9 @@
 }
 
 .section-title{
-    font: var(--caption);
+    font: var(--headline5);
+    color: var(--camel);
+    text-transform: uppercase;
     margin: 0;
     text-align: center;
 }
@@ -38,6 +40,8 @@
 .about-description h4{
     margin: 0;
     font: var(--headline5);
+    text-transform: uppercase;
+    color: var(--camel);
 }
 
 .about-description p{
@@ -47,10 +51,6 @@
 @media screen and (min-width: 768px) {
     #about{
         max-width: 1080px;
-    }
-
-    .section-title{
-        font: var(--headline5);
     }
 
     .about-text p{

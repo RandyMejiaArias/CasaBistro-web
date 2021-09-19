@@ -24,6 +24,8 @@
     margin: 0;
     font: var(--headline5);
     text-align: center;
+    text-transform: uppercase;
+    color: var(--camel);
 }
 
 .home-menu-description p{
