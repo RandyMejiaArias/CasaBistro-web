@@ -37,7 +37,15 @@
     height: auto;
 }
 
+.section-title.subtitle{
+    display: none;
+}
+
 @media screen and (min-width: 768px){
+    .section-title.subtitle{
+        display: block;
+    }
+
     #home-menu{
         padding-block-end: 140px;
     }
@@ -67,7 +75,6 @@
 @media screen and (min-width: 1024px){
     .home-menu-list{
         display: flex;
-        
     }
 
     .home-menu{
