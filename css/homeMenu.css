@@ -30,6 +30,7 @@
 
 .home-menu-description p{
     margin: 0;
+    text-align: center;
 }
 
 .separator-image img{
@@ -42,33 +43,25 @@
 }
 
 @media screen and (min-width: 768px){
-    .section-title.subtitle{
-        display: block;
-    }
-
-    #home-menu{
-        padding-block-end: 140px;
-    }
 
     .home-menu{
         display: flex;
-        padding-block-start: 24px;
-        padding-block-end: 24px;
-    }
-
-    .home-menu-image{
-        flex: 1;
+        padding-block-start: 12px;
+        padding-block-end: 12px;
     }
 
     .home-menu-description{
-        flex: 1;
         margin-inline-start: 24px;
         justify-content: center;
     }
 
     .home-menu-description h4{
         font: var(--headline4);
-        text-align: start;
+        text-align: center;
+    }
+
+    .home-menu-description p{
+        font: var(--headline5);
     }
 }
 
