@@ -42,6 +42,7 @@
     font: var(--headline5);
     text-transform: uppercase;
     color: var(--camel);
+    text-align: center;
 }
 
 .about-description p{
@@ -78,6 +79,7 @@
 
     .about-description h4{
         font: var(--headline4);
+        text-align: left;
     }
     
     .about-description p{
