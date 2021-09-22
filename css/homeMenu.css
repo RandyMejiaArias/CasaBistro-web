@@ -5,14 +5,6 @@
     padding-block-end: 40px;
 }
 
-.home-menu-image{
-    text-align: center;
-}
-
-.home-menu-image img{
-    max-inline-size: 100%;
-} 
-
 .home-menu-description{
     display: flex;
     flex-direction: column;
@@ -33,17 +25,7 @@
     text-align: center;
 }
 
-.separator-image img{
-    max-width: 100%;
-    height: auto;
-}
-
-.section-title.subtitle{
-    display: none;
-}
-
 @media screen and (min-width: 768px){
-
     .home-menu{
         display: flex;
         padding-block-start: 12px;

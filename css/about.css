@@ -17,14 +17,6 @@
     text-align: center;
 }
 
-.about-image{
-    text-align: center;
-}
-
-.about-image img{
-    max-inline-size: 100%;
-}
-
 .about-description{
     display: flex;
     flex-direction: column;
@@ -60,16 +52,7 @@
         align-items: center;
     }
 
-    .about-image{
-        flex: 1;
-    }
-
-    .about:nth-of-type(odd) .about-image{
-        order: 2;
-    }
-
     .about-description{
-        flex: 1;
         margin-inline-end: 24px;
         margin-inline-start: 24px;
     }

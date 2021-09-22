@@ -95,7 +95,7 @@
     visibility: hidden;
     opacity: 0;
     transition: all 600ms;
-    z-index: 2;
+    z-index: 3;
 }
 
 .container-modal:target{
