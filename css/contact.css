@@ -21,6 +21,7 @@
     margin: 0;
     padding-inline-start: 16px;
     font: var(--headline5);
+    text-align: left;
 }
 
 .contact-title i{
@@ -29,18 +30,46 @@
     line-height: 39px;
 }
 
+.contact .cta{
+    color: var(--camel);
+}
+
+.contact a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font: var(--callout);
+    color: var(--camel);
+}
+
+.contact a:visited{
+    color: var(--camel);
+}
+
+.autoBistro{
+    padding-block-start: 8px;
+    color: var(--camel);
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.contact .phone{
+    color: var(--white);
+}
+
 .contact p{
     margin: 0;
+    color: var(--white);
 }
 
 @media screen and (min-width: 768px) {
-    #contact{
-        padding-block-start: 140px;
-        padding-block-end: 140px;
-    }
+
 
     .contact-list{
         display: flex;
         justify-content: space-between;
+    }
+
+    .contact{
+        flex: 0 1 30%;
     }
 }

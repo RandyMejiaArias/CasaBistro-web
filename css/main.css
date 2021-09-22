@@ -1,16 +1,15 @@
-@import "./wrapper.css";
-@import "./header.css";
-@import "./menu.css";
-@import "./button.css";
-@import "./hero.css";
-@import "./about.css";
-@import "./carousel.css";
-@import "./homeMenu.css";
-@import "./contact.css";
-@import "./social.css";
-@import "./footer.css";
+@import "./wrapper.min.css";
+@import "./header.min.css";
+@import "./menu.min.css";
+@import "./button.min.css";
+@import "./about.min.css";
+@import "./carousel.min.css";
+@import "./homeMenu.min.css";
+@import "./contact.min.css";
+@import "./social.min.css";
+@import "./footer.min.css";
 
-@import "./generalMenu.css";
+@import "./generalMenu.min.css";
 
 /* Fuentes */
 @font-face {
@@ -50,4 +49,9 @@ body{
     font: var(--body);
     color: var(--white);
     margin: 0;
+}
+
+a:visited{
+    color: var(--white);
+    text-decoration: none;
 }

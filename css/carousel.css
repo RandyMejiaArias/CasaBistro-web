@@ -1,13 +1,8 @@
-.carousel{
-    padding-block-start: 40px;
-    padding-block-end: 40px;
-}
-
-.carousel-content{
+.modal-carousel-content{
     position: relative;
 }
 
-.carousel-previous, .carousel-next{
+.modal-carousel-previous, .modal-carousel-next{
     position: absolute;
     display: block;
     border: none;
@@ -19,51 +14,33 @@
     z-index: 1;
 }
 
-.carousel-previous i, .carousel-next i{
+.modal-carousel-previous, .modal-carousel-next{
+    color: var(--camel);
+    top: calc(50% - 8px);
+}
+
+.modal-carousel-previous i, .modal-carousel-next i{
     font-size: 30px;
 }
 
-.carousel-previous:hover, .carousel-next:hover{
-    color: var(--camel);
+.modal-carousel-previous:hover, .modal-carousel-next:hover{
+    color: var(--black);
 }
 
-.carousel-previous{
-    left: 37.2px;
+.modal-carousel-previous{
+    left: 12px;
 }
 
-.carousel-next{
-    right: 37.2px;
+.modal-carousel-next{
+    right: 12px;
 }
 
-.carousel-list{
+.modal-carousel-list{
     overflow: hidden;
 }
 
 @media screen and (min-width: 768px) {
-    .carousel{
-        padding-block-start: 140px;
-        padding-block-end: 140px;
-    }
-
-    .carousel-previous i, .carousel-next i{
-        font-size: 42px;
-    }
-
-    .carousel-previous{
-        left: 60px;
-    }
-    
-    .carousel-next{
-        right: 60px;
+    .modal-carousel-previous{
+        left: 40px;
     }
 }
-
-@media screen and (min-width: 1440px){
-    .carousel-previous{
-        left: 100px;
-    }
-    
-    .carousel-next{
-        right: 100px;
-    }
-} 

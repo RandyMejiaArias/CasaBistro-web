@@ -5,14 +5,49 @@
     padding-block-end: 40px;
 }
 
+.general-menu section{
+    display: flex;
+    flex-direction: column;
+}
+
 .general-menu-title{
+    background: var(--camel);
+    align-self: flex-start;
     font: var(--headline4);
     margin: 0;
-    padding-block-end: 32px;
+    margin-block-end: 24px;
+    padding-inline-start: 16px;
+    padding-inline-end: 16px;
+}
+
+.general-menu-subtitle{
+    align-self: flex-start;
+    font: var(--headline4);
+    margin: 0;
+    border-left: 5px solid var(--camel);
+    margin-block-end: 12px;
+    padding-inline-start: 16px;
+    padding-inline-end: 16px;
 }
 
 .general-menu-item-image{
     text-align: center;
+    position: relative;
+}
+
+.general-menu-item-image .callout{
+    font: var(--callout);
+    background: var(--camel);
+    color: var(--white);
+    position: absolute;
+    align-self: flex-start;
+    margin: 0;
+    padding-inline-start: 16px;
+    padding-inline-end: 16px;
+    padding-block-start: 4px;
+    padding-block-end: 4px;
+    top: 0;
+    right: 0;
 }
 
 .general-menu-item{
@@ -27,9 +62,21 @@
     max-inline-size: 100%;
 }
 
-.general-menu-item-description h4{
+.general-menu-item-description h4, .extras-menu-item-description h4{
     margin: 0;
     font: var(--headline5);
+}
+
+.extras-menu-item-header {
+    display: flex;
+    justify-content: space-between ;
+}
+
+.extras-menu-item-header span.callout{
+    margin: 0;
+    min-width: 50px;
+    font: var(--callout);
+    line-height: 39px;
 }
 
 .general-menu-item-description p{
@@ -48,7 +95,7 @@
     visibility: hidden;
     opacity: 0;
     transition: all 600ms;
-    z-index: 2;
+    z-index: 3;
 }
 
 .container-modal:target{
@@ -84,6 +131,10 @@
     text-align: center;
     margin: 0 auto;
     padding-block-start: 30px;
+}
+
+.modal-img.carousel{
+    padding-block-start: 0;
 }
 
 .modal-img img{
@@ -151,10 +202,20 @@
     font: 11px/14px var(--fontBase);
 }
 
+.extras-menu-item-title{
+    font: var(--headline5);
+    margin: 0;
+}
+
 @media screen and (min-width: 768px) {
-    .general-menu-item-description h4{
+    .general-menu-title{
+        font: var(--headline3);
+    }
+
+    .general-menu-item-description h4, .extras-menu-item-description h4{
         font: var(--body);
     }
+
     .general-menu-item{
         padding-inline-start: 12px;
         padding-inline-end: 12px;
@@ -175,6 +236,10 @@
         padding-block-end: 30px;
     }
 
+    .modal-img.carousel{
+        padding-inline-start: 0;
+    }
+
     .modal-description{
         flex: 1;
         display: flex;
@@ -188,6 +253,38 @@
 
     .modal-description.salad .sauce-list li{
         font: var(--caption);
+    }
+
+    .extras-menu-item-header span {
+        float: left;
+        width: 20%;
+        text-align: center;
+        display: block;
+    }
+
+    .extras-menu-item-header span.callout{
+        width: 20%;
+    }
+    
+    .extras-menu-item-header span:first-child {
+        width: 40%;
+        text-align: left;
+    }
+    
+    .extras-menu-item-header .dots {
+        width: 40%;
+        border-bottom: 2px dotted #ccc;
+        margin-bottom: 1em;
+    }
+    
+    .clear, .clear::after{
+        content: '';
+        clear: both;
+        display: block;
+    }
+
+    .extras-menu-list{
+        padding-inline-start: 12px;
     }
 }
 
@@ -210,7 +307,6 @@
         max-height: 374px;
         text-align: center;
         margin: auto auto;
-        padding-inline-start: 32px;
     }
 
     .modal-description{
@@ -232,6 +328,10 @@
 
     .sauce-list li{
         font: var(--body);
+    }
+
+    .extras-menu-list{
+        padding-inline-start: 24px;
     }
 }
 

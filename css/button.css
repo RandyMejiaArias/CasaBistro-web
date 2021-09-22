@@ -1,5 +1,5 @@
 .button{
-    background: var(--black);
+    background: var(--camel);
     font: var(--callout);
     color: var(--white);
     padding-inline-start: 41px;
@@ -12,27 +12,6 @@
     text-transform: uppercase;
     text-align: center;
     transition: 500ms;
-}
-
-.button.scrolled{
-    background: var(--camel);
-    transition: 500ms;
-}
-
-.button.is-secondary{
-    background: var(--camel);
-    font: var(--callout);
-    color: var(--white);
-    padding-inline-start: 41px;
-    padding-inline-end: 41px;
-    padding-block-start: 9px;
-    padding-block-end: 9px;
-    border-radius: 35px;
-    border: none;
-    max-width: 312px;
-    text-decoration: none;
-    text-transform: uppercase;
-    text-align: center;
 }
 
 #menu-button{
@@ -63,10 +42,6 @@
 
     .menu-button{
         margin: 0 auto;
-    }
-
-    .button.is-secondary{
-        font: var(--headline5);
     }
 
     #menu-button{
