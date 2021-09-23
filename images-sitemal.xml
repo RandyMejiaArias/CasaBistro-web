@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://casabistroecuador.com/</loc>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/to-snack/picadita%20personal.jpg</image:loc>
+      <image:title>Picadita Personal</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/to-snack/Picadita%20para%20compartir.jpg</image:loc>
+      <image:title>Picadita para compartir</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/to-snack/nachos%20tex%20mex.jpg</image:loc>
+      <image:title>Nachos Tex Mex</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/to-snack/Nachos%20con%20queso%2040ml.jpg</image:loc>
+      <image:title>Nachos con queso</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/salads/Ensalada.jpg</image:loc>
+      <image:title>Ensalada - Casa Bistro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Tradicional.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa de queso cheddar con trozos de tocino ahumado</image:caption>
+      <image:title>Canoa Tradicional</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Tradicional%20+%20strips.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar y trozos de tocino ahumado más strips de pollo.</image:caption>
+      <image:title>Canoa Tradicional + Strips</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Mexicana.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar con toque de páprika, carne molida con frijol y pico de gallo</image:caption>
+      <image:title>Canoa Mexicana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Champi.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar con mix de trozos de pollo y jamón en salsa de champiñones</image:caption>
+      <image:title>Canoa Champi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Bistro.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar y trozos de tocino ahumado, acompañado de strips de pollo y huevo frito</image:caption>
+      <image:title>Canoa Bistro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Strips.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar, strips de pollo crujiente bañadas en salsa</image:caption>
+      <image:title>Canoa Strip</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Strips%20frutilla%20y%20jengibre.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar, strips de pollo crujiente bañadas en salsa de frutiila y jengibre </image:caption>
+      <image:title>Canoa Strip - Frutilla y Jengibre</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Strips%20hawaiana.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar, strips de pollo crujiente bañadas en salsa hawaiana</image:caption>
+      <image:title>Canoa Strip - Hawaiana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Strips%20Mango%20picante.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar, strips de pollo crujiente bañadas en salsa de mango picante</image:caption>
+      <image:title>Canoa Strip - Mango Picante</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Strips%20maracuya%20y%20jengibre.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar, strips de pollo crujiente bañadas en salsa de maracuya y jengibre</image:caption>
+      <image:title>Canoa Strip - Maracuya y Jengibre</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Strips%20Picante.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar, strips de pollo crujiente bañadas en salsa picante</image:caption>
+      <image:title>Canoa Strip - Buffalo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Strips%20BBQ.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar, strips de pollo crujiente bañadas en salsa BBQ</image:caption>
+      <image:title>Canoa Strip - BBQ</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Strips%20Tailandesa.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar, strips de pollo crujiente bañadas en salsa tailandesa</image:caption>
+      <image:title>Canoa Strip - Tailandesa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Bistro%20Jumbo.jpg</image:loc>
+      <image:caption>Doble porción de papas fritas crocantes, más salsa cheddar, más strips, más trozos de tocino ahumado y huevo frito.</image:caption>
+      <image:title>Canoa Bistro Jumbo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Mar%20y%20tierra.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa de queso cheddar con trozos de tocino ahumado</image:caption>
+      <image:title>Canoa Mar y Tierra</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Camarones%20apanados.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar, acompañado con camarones apanados</image:caption>
+      <image:title>Canoa Camarones Apanados</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/canoes/Oriental.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar, acompañado con camarones y vegetales salteados en salsa oriental.</image:caption>
+      <image:title>Canoa Oriental</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/wings/Alitas.jpg</image:loc>
+      <image:caption>Alitas crocantes de pollo</image:caption>
+      <image:title>Alitas - Casa Bistro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/wings/Alit.%20Frutilla%20y%20jengibre.jpg</image:loc>
+      <image:caption>Alitas crocantes de pollo bañadas en salsa de frutiila y jengibre</image:caption>
+      <image:title>Alitas, Frutilla y Jengibre - Casa Bistro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/wings/Alit.%20Hawaiana.jpg</image:loc>
+      <image:caption>Alitas crocantes de pollo bañadas en salsa hawaiana</image:caption>
+      <image:title>Alitas, Hawaiana - Casa Bistro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/wings/Alit.%20Mango%20picante.jpg</image:loc>
+      <image:caption>Alitas crocantes de pollo bañadas en salsa de mango picante</image:caption>
+      <image:title>Alitas, Mango Picante - Casa Bistro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/wings/Alit.%20Maracuy%C3%A1%20y%20jengibre.jpg</image:loc>
+      <image:caption>Alitas crocantes de pollo bañadas en salsa de maracuyá y jengibre</image:caption>
+      <image:title>Alitas, Maracuyá y Jengibre - Casa Bistro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/wings/Alit.%20Picantes.jpg</image:loc>
+      <image:caption>Alitas crocantes de pollo bañadas en salsa picante</image:caption>
+      <image:title>Alitas, Picantes - Casa Bistro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/wings/Alit.%20Pimienta%20limon.jpg</image:loc>
+      <image:caption>Alitas crocantes de pollo bañadas en salsa de pimienta y limón</image:caption>
+      <image:title>Alitas, Pimienta y Limón - Casa Bistro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/wings/Alit.%20Tailandesa.jpg</image:loc>
+      <image:caption>Alitas crocantes de pollo bañadas en salsa tailandesa</image:caption>
+      <image:title>Alitas, Tailandesa - Casa Bistro</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/burgers/Simple.jpg</image:loc>
+      <image:caption>Pan artesanal, carne 120gr cubierta de queso cheddar, vegetales frescos</image:caption>
+      <image:title>Hamburguesa simple</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/burgers/Champi.jpg</image:loc>
+      <image:caption>Pan artesanal, carne 120gr cubierta de queso cheddar, vegetales frescos, acompañado de champiñones salteados</image:caption>
+      <image:title>Hamburguesa Champi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/burgers/Bacon%20BBQ%20.jpg</image:loc>
+      <image:caption>Pan artesanal, carne 120gr cubierta de queso cheddar, tocino ahumado con salsa BBQ y aros de cebolla perla.</image:caption>
+      <image:title>Hamburguesa Bacon BBQ</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/burgers/Strips.jpg</image:loc>
+      <image:caption>Pan artesanal, strips de pollo cubiertas de queso cheddar , vegetales frescos.</image:caption>
+      <image:title>Hamburguesa Strip</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/burgers/Doble.jpg</image:loc>
+      <image:caption>Pan artesanal, doble carne 120gr (c/u), cubierta de queso cheddar c/u, vegetales frescos.</image:caption>
+      <image:title>Hamburguesa Doble</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/burgers/Bistro.jpg</image:loc>
+      <image:caption>Pan artesanal, doble carne 120gr (c/u), cubierta de queso cheddar, vegetales frescos, huevo frito, tocino ahumado, y nuestra salsa de casa.</image:caption>
+      <image:title>Hamburguesa Bistro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/burgers/Mar%20y%20tierra.jpg</image:loc>
+      <image:caption>Pan artesanal, carne 120gr cubierta de queso cheddar, vegetales frescos y camarones apanados</image:caption>
+      <image:title>Hamburguesa Mar y Tierra</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pizzas/Pizza%20Pepperoni.jpg</image:loc>
+      <image:caption>Pepperoni premium, queso mozzarella, salsa pomodoro de casa, toque de orégano.</image:caption>
+      <image:title>Pizza Pepperoni</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pizzas/Pizza%20Jam%C3%B3n.jpg</image:loc>
+      <image:caption>Jamón premium, queso mozzarella, salsa pomodoro de casa, toque de orégano.</image:caption>
+      <image:title>Pizza Jamón</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pizzas/Pizza%20hawaiana.jpg</image:loc>
+      <image:caption>Jamón premium, queso mozzarella, salsa pomodoro de casa, cubierto en trozos de piña fresca, toque de orégano.</image:caption>
+      <image:title>Pizza Hawaiana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pizzas/Pizza%20Mexicana.jpg</image:loc>
+      <image:caption>Carne molida con frijol, pimientos 3 colores, salsa pomodoro de casa con toque picante, queso mozzarella con toque de orégano y ají seco.</image:caption>
+      <image:title>Pizza Mexicana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pizzas/Pizza%20Ranchera.jpg</image:loc>
+      <image:caption>Tocino ahumado y pollo premium, queso mozzarella, salsa pomodoro de casa, con toque de orégano.</image:caption>
+      <image:title>Pizza Ranchera</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pizzas/Pizza%20Bistro.jpg</image:loc>
+      <image:caption>Pepperoni, jamón y tocino premium, trozitos de pollo y carne molida en salsa bbq, queso mozzarella, salsa pomodoro de casa, toque de orégano.</image:caption>
+      <image:title>Pizza Bistro</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/shwarma/Shawarma%20de%20pollo.jpg</image:loc>
+      <image:caption>Trozos de pollo marinado a la plancha con vegetales frescos con papas fritas envuelto de masa kebab hecho en casa.</image:caption>
+      <image:title>Shawarma de pollo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/shwarma/Burrito.jpg</image:loc>
+      <image:caption>Carne molida con frijol, salteado de pimientos 3 colores con papas fritas envuelto de masa kebab hecho en casa.</image:caption>
+      <image:title>Burrito</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/veggie/Can.%20Veggie.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso cheddar, acompañado de vegetales salteados y croquetas de lenteja.</image:caption>
+      <image:title>Canoa Veggie</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/veggie/hamb.%20Veggie.jpg</image:loc>
+      <image:caption>Pan artesanal, disco de lenteja a la plancha 140gr, cubierta de queso cheddar, vegetales frescos.</image:caption>
+      <image:title>Hamburguesa Veggie</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/veggie/Pizza%20Vegetariana.jpg</image:loc>
+      <image:caption>Champiñones y pimientos 3 colores, salsa pomodoro de casa, queso mozzarella, con toque de orégano.</image:caption>
+      <image:title>Pizza Vegetariana</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/veggie/Pizza%20margarita.jpg</image:loc>
+      <image:caption>Queso mozzarella, rodajas de tomate riñon, albahaca fresca con toque de orégano.</image:caption>
+      <image:title>Pizza Margarita</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/veggie/shawama%20salteado%20vegetales.jpeg</image:loc>
+      <image:caption>Salteado de pimientos 3 colores, apio y cebolla con salsa de ajo y soya, papas fritas envuelto de masa kebab hecho en casa.</image:caption>
+      <image:title>Shawarma Salteado de Vegetales</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/veggie/falafel.jpg</image:loc>
+      <image:caption>Falafels de lenteja con vegetales frescos envuelto de masa kebab hecho en casa.</image:caption>
+      <image:title>Shawarma Falafel de Lenteja</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/junior/Canoa%20tradicional%20Jr.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso queddar con trozos de tocino ahumado</image:caption>
+      <image:title>Canoa Tradicional Jr</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/junior/canoa%20carnita.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso queddar con carne de hamburguesa.</image:caption>
+      <image:title>Canoa Carnita</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/junior/Canoa%20Strip%20Jr.jpg</image:loc>
+      <image:caption>Papas fritas crocantes bañadas en salsa queso queddar con strips de pollo.</image:caption>
+      <image:title>Canoa Strip Jr</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/junior/Hamburguesa%20Junior.jpg</image:loc>
+      <image:caption>Pan artesanal, carne 60gr cubierta de queso cheddar, vegetales frescos.</image:caption>
+      <image:title>Hamburguesa Carne Jr</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/junior/Hamburguesa%20Strip%20Junior.jpg</image:loc>
+      <image:caption>Pan artesanal, strips de pollo cubierta de queso cheddar, vegetales frescos.</image:caption>
+      <image:title>Hamburguesa Strip Jr</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pet-friendly/galleta%20de%20pollo.jpg</image:loc>
+      <image:title>Galleta sabor a pollo para perro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pet-friendly/Galleta%20de%20atun.jpg</image:loc>
+      <image:title>Galleta sabor a pollo para perro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pet-friendly/Helado%20sandia.jpg</image:loc>
+      <image:title>Helado sabor a sandía para perro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pet-friendly/Helado%20fresa.jpg</image:loc>
+      <image:title>Helado sabor a fresa para perro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pet-friendly/Helado%20manzana.jpg</image:loc>
+      <image:title>Helado sabor a manzana para perro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pet-friendly/cupcake%20pollo.jpg</image:loc>
+      <image:title>Cupcake sabor a pollo para perro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://casabistroecuador.com/assets/img/menu/pet-friendly/cupcake%20atun.jpg</image:loc>
+      <image:title>Cupcake sabor a atún para perro</image:title>
+    </image:image>
+  </url>
+</urlset>
