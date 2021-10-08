@@ -39,10 +39,6 @@
 }
 
 @media screen and (min-width: 768px) {
-    #about{
-        max-width: 1080px;
-    }
-
     .about-text p{
         font: var(--headline4);
     }
