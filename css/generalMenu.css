@@ -33,6 +33,7 @@
 .general-menu-item-image{
     text-align: center;
     position: relative;
+    overflow: hidden;
 }
 
 .general-menu-item-image .callout{
@@ -48,6 +49,22 @@
     padding-block-end: 4px;
     top: 0;
     right: 0;
+}
+
+.general-menu-item-image .new-banner{
+    font: var(--callout);
+    background: var(--imperialRed);
+    color: var(--white);
+    position: absolute;
+    align-self: flex-start;
+    margin: 0;
+    padding-inline-start: 30px;
+    padding-inline-end: 30px;
+    padding-block-start: 6px;
+    padding-block-end: 6px;
+    top: 8px;
+    left: -30px;
+    transform: rotate(-45deg);
 }
 
 .general-menu-item{
