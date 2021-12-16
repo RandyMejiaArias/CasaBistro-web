@@ -4,14 +4,15 @@
 
 .menu ul{
     display: flex;
-    gap: 40px;
+    gap: 80px;
     list-style: none;
+    padding-inline-start: 0;
 }
 
 .menu ul a{
     text-decoration: none;
     color: var(--white);
-    font: var(--callout);
+    font: var(--headline5);
     text-transform: uppercase;
 }
 
@@ -27,6 +28,6 @@
 
 @media screen and (min-width: 1024px) {
     .menu ul{
-        gap: 80px;
+        gap: 120px;
     }
 }

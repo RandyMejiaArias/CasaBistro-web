@@ -1,15 +1,15 @@
-@import "./wrapper.min.css";
-@import "./header.min.css";
-@import "./menu.min.css";
-@import "./button.min.css";
-@import "./about.min.css";
-@import "./carousel.min.css";
-@import "./homeMenu.min.css";
-@import "./contact.min.css";
-@import "./social.min.css";
-@import "./footer.min.css";
+@import "./wrapper.css";
+@import "./header.css";
+@import "./menu.css";
+@import "./button.css";
+@import "./about.css";
+@import "./carousel.css";
+@import "./homeMenu.css";
+@import "./contact.css";
+@import "./social.css";
+@import "./footer.css";
 
-@import "./generalMenu.min.css";
+@import "./generalMenu.css";
 
 /* Fuentes */
 @font-face {
@@ -39,6 +39,7 @@
     --caption: 12px/19px var(--fontBase);
     --black: #0A0905;
     --camel: #D2AE4D;
+    --imperialRed: #EC4243;
     --white: white;
     scroll-behavior: smooth;
 }

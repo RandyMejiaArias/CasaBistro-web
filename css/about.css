@@ -6,7 +6,7 @@
 }
 
 .section-title{
-    font: var(--headline5);
+    font: var(--headline4);
     color: var(--camel);
     text-transform: uppercase;
     margin: 0;
@@ -39,10 +39,6 @@
 }
 
 @media screen and (min-width: 768px) {
-    #about{
-        max-width: 1080px;
-    }
-
     .about-text p{
         font: var(--headline4);
     }

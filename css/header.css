@@ -12,3 +12,13 @@
     align-items: center;
     block-size: 80px;
 }
+
+.header-content a{
+    padding-inline: 12px;
+}
+
+@media screen and (min-width: 768px) {
+    .header-content a{
+        padding-inline: 32px;
+    }
+}
