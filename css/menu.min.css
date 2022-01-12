@@ -1,1 +1,0 @@
-.menu{display:none}.menu ul{display:flex;gap:80px;list-style:none;padding-inline-start:0}.menu ul a{text-decoration:none;color:var(--white);font:var(--headline5);text-transform:uppercase}.menu ul a:hover{color:var(--camel)}@media screen and (min-width:768px){.menu{display:block}}@media screen and (min-width:1024px){.menu ul{gap:120px}}
